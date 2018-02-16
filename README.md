@@ -1,2 +1,1 @@
-# Explore-and-summarize-data
-I this project, I conducted my own exploratory data analysis and created an RMD file that explored the variables, structure, patterns, oddities, and underlying relationships of a data set
+From this list of Udacity's curated datasets https://docs.google.com/document/d/e/2PACX-1vRmVtjQrgEPfE3VoiOrdeZ7vLPO_p3KRdb_o-z6E_YJ65tDOiXkwsDpLFKI3lUxbD6UlYtQHXvwiZKx/pub?embedded=true, I chose the red wine dataset for my analysis. I developed the code in R (An RMD file) which contains my entire analysis , final plots and my viewpoint of the whole process. Then I knit an HTML file from the RMD code as needed for the project submission.
